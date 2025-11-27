@@ -43,21 +43,21 @@ Les captures d’écran des différentes activities doivent être placées dans 
 
 Les images sont placées dans le même dossier que ce fichier README.
 
-MainActivity – Liste des personnes
-![MainActivity]([main.png](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/main.jpeg))
+### MainActivity – Liste des personnes
+![MainActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/main.jpeg)
 
 ---
 
 ### AddPersonActivity – Ajouter une personne
-![AddPersonActivity](add.png)
+![AddPersonActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/add.jpeg)
 
 ---
 
 ### DetailsActivity – Détails de la personne
-![DetailsActivity](details.png)
+![DetailsActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/details.png)
 
 ---
 
 ### UpdatePersonActivity – Modifier une personne
-![UpdatePersonActivity](update.png)
+![UpdatePersonActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/update.png)
 
