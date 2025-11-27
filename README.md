@@ -54,10 +54,10 @@ Les images sont placées dans le même dossier que ce fichier README.
 ---
 
 ### DetailsActivity – Détails de la personne
-![DetailsActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/details.png)
+![DetailsActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/details.jpeg)
 
 ---
 
 ### UpdatePersonActivity – Modifier une personne
-![UpdatePersonActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/update.png)
+![UpdatePersonActivity](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/update.jpeg)
 
