@@ -43,21 +43,21 @@ Les captures d’écran des différentes activities doivent être placées dans 
 
 Les images sont placées dans le même dossier que ce fichier README.
 
-### MainActivity – Liste des personnes
-![MainActivity]([main.png])
+MainActivity – Liste des personnes
+![MainActivity](main.png)
 
 ---
 
 ### AddPersonActivity – Ajouter une personne
-![AddPersonActivity]([add.png])
+![AddPersonActivity](add.png)
 
 ---
 
 ### DetailsActivity – Détails de la personne
-![DetailsActivity]([details.png])
+![DetailsActivity](details.png)
 
 ---
 
 ### UpdatePersonActivity – Modifier une personne
-![UpdatePersonActivity]([update.png])
+![UpdatePersonActivity](update.png)
 
