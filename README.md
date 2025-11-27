@@ -1,4 +1,4 @@
-## 📌 Présentation du projet
+Présentation du projet
 
 Cette application Android est développée en Kotlin dans le but d’apprendre les bases du développement mobile.
 Elle permet de gérer une liste de personnes (Person) à travers une interface simple et intuitive.
@@ -39,4 +39,25 @@ Chaque personne est affichée dans une carte (CardView) avec ses informations pr
 --Emplacement des captures d’écran
 
 Les captures d’écran des différentes activities doivent être placées dans un dossier nommé :
+
+
+Les images sont placées dans le même dossier que ce fichier README.
+
+### MainActivity – Liste des personnes
+![MainActivity](main.png)
+
+---
+
+### AddPersonActivity – Ajouter une personne
+![AddPersonActivity](add.png)
+
+---
+
+### DetailsActivity – Détails de la personne
+![DetailsActivity](details.png)
+
+---
+
+### UpdatePersonActivity – Modifier une personne
+![UpdatePersonActivity](update.png)
 
