@@ -44,7 +44,7 @@ Les captures d’écran des différentes activities doivent être placées dans 
 Les images sont placées dans le même dossier que ce fichier README.
 
 MainActivity – Liste des personnes
-![MainActivity](main.png)
+![MainActivity]([main.png](https://github.com/abderrafia20/App-recycleV-Adapter/blob/main/main.jpeg))
 
 ---
 
