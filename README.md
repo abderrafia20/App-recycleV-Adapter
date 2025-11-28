@@ -38,7 +38,6 @@ Chaque personne est affichée dans une carte (CardView) avec ses informations pr
 
 --Emplacement des captures d’écran
 
-Les captures d’écran des différentes activities doivent être placées dans un dossier nommé :
 
 
 Les images sont placées dans le même dossier que ce fichier README.
